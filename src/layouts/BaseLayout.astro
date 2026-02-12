@@ -374,10 +374,33 @@ const ogImageURL = ogImage ? new URL(ogImage, Astro.site).href : new URL('/ogp.p
       });
     };
 
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', wrapMarkdownTables, { once: true });
-    } else {
+    const insertMiddleAffiliateCta = () => {
+      const articleWrapper = document.querySelector('.article-wrapper');
+      const middleTemplate = document.getElementById('affiliate-middle-template');
+
+      if (!(articleWrapper instanceof HTMLElement) || !(middleTemplate instanceof HTMLTemplateElement)) return;
+
+      const h2Elements = articleWrapper.querySelectorAll('h2');
+      const alreadyInserted = articleWrapper.querySelector('[data-affiliate-middle="inserted"]');
+
+      if (h2Elements.length < 2 || alreadyInserted) return;
+
+      const middleCta = middleTemplate.content.firstElementChild?.cloneNode(true);
+      if (middleCta instanceof HTMLElement) {
+        middleCta.setAttribute('data-affiliate-middle', 'inserted');
+        h2Elements[1].insertAdjacentElement('afterend', middleCta);
+      }
+    };
+
+    const initializeArticleEnhancements = () => {
       wrapMarkdownTables();
+      insertMiddleAffiliateCta();
+    };
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initializeArticleEnhancements, { once: true });
+    } else {
+      initializeArticleEnhancements();
     }
   </script>
 </body>
