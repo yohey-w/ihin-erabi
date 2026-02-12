@@ -107,5 +107,23 @@ const ogImageURL = ogImage ? new URL(ogImage, Astro.site).href : new URL('/ogp.p
       &copy; {new Date().getFullYear()} 遺品整理えらび All rights reserved.
     </div>
   </footer>
+  <script>
+    const wrapMarkdownTables = () => {
+      const tables = document.querySelectorAll('.article-wrapper table');
+      tables.forEach((table) => {
+        if (table.parentElement?.classList.contains('table-responsive')) return;
+        const wrapper = document.createElement('div');
+        wrapper.className = 'table-responsive markdown-table-wrap';
+        table.parentElement?.insertBefore(wrapper, table);
+        wrapper.appendChild(table);
+      });
+    };
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', wrapMarkdownTables, { once: true });
+    } else {
+      wrapMarkdownTables();
+    }
+  </script>
 </body>
 </html>

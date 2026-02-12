@@ -17,18 +17,18 @@ const { services } = Astro.props;
   <table class="comparison-table">
     <thead>
       <tr>
-        <th>サービス名</th>
-        <th>タイプ</th>
-        <th>月額費用</th>
-        <th>入会金</th>
-        <th>会員数</th>
-        <th>詳細</th>
+        <th scope="col">サービス名</th>
+        <th scope="col">タイプ</th>
+        <th scope="col">月額費用</th>
+        <th scope="col">入会金</th>
+        <th scope="col">会員数</th>
+        <th scope="col">詳細</th>
       </tr>
     </thead>
     <tbody>
       {services.map((s) => (
         <tr class={s.recommended ? 'recommended' : ''}>
-          <td>
+          <td class="comparison-name">
             <strong>{s.name}</strong>
             {s.recommended && <span class="rec-badge">おすすめ</span>}
           </td>
@@ -37,8 +37,7 @@ const { services } = Astro.props;
           <td>{s.entryFee}</td>
           <td>{s.members}</td>
           <td>
-            <a href={s.link} rel="nofollow sponsored" target="_blank"
-              style="display:inline-block; background:var(--color-primary); color:#fff; padding:0.3rem 0.8rem; border-radius:100px; font-size:0.8rem; font-weight:600; text-decoration:none;">
+            <a href={s.link} rel="nofollow sponsored" target="_blank" class="comparison-link">
               公式サイト
             </a>
           </td>
