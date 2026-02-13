@@ -1,7 +1,7 @@
 ---
 title: "新潟市の遺品整理業者おすすめ比較【2026年版】費用相場と進め方"
 description: "新潟市で遺品整理を検討する方向けに、費用相場、見積もり比較の手順、供養対応の確認ポイントを地域事情に沿って解説します。"
-publishedAt: "2026-02-12"
+publishedAt: "2026-02-14"
 category: "ranking"
 area: "新潟市"
 services: ["遺品整理110番", "不用品回収FireWorks", "EMEAO! 遺品整理"]

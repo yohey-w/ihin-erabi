@@ -1,7 +1,7 @@
 ---
 title: "江戸川区の遺品整理おすすめ比較ランキング【2026年版】費用相場と進め方"
 description: "江戸川区で遺品整理を検討する方向けに、費用相場、追加費用が出やすい条件、供養と買取の確認手順を実務目線で整理しました。"
-publishedAt: "2026-02-12"
+publishedAt: "2026-02-14"
 category: "ranking"
 area: "江戸川区"
 services: ["遺品整理110番", "不用品回収FireWorks", "EMEAO! 遺品整理"]

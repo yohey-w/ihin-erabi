@@ -1,7 +1,7 @@
 ---
 title: "静岡市の遺品整理おすすめ比較【2026年版】費用相場と後悔を減らす進め方"
 description: "静岡市で遺品整理を検討する方向けに、費用相場、業者比較の見方、供養と買取の進め方を地域事情に沿って整理しました。"
-publishedAt: "2026-02-12"
+publishedAt: "2026-02-14"
 category: "ranking"
 area: "静岡市"
 services: ["遺品整理110番", "不用品回収FireWorks", "EMEAO! 遺品整理"]

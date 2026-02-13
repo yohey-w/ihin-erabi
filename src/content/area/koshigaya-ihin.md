@@ -1,7 +1,7 @@
 ---
 title: "越谷市の遺品整理比較ランキング【2026年版】費用相場と進め方"
 description: "越谷市で遺品整理を検討する方向けに、費用相場、追加費用の確認ポイント、供養・買取対応の比較軸を地域事情に沿ってまとめました。"
-publishedAt: "2026-02-12"
+publishedAt: "2026-02-14"
 category: "ranking"
 area: "越谷市"
 services: ["遺品整理110番", "不用品回収FireWorks", "EMEAO! 遺品整理"]
