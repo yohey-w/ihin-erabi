@@ -28,12 +28,7 @@ keywords: ["港区 遺品整理 おすすめ", "港区 遺品整理 費用", "�
 
 実際に問い合わせると、基本料金は低めでもオプションで総額が上がるケースは珍しくありません。見積書は「総額」だけでなく、追加発生条件まで文章で明示してもらうと比較しやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>港区対応の遺品整理相談に使いやすい窓口です。まずは無料見積もりで作業内容と料金内訳を整理できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 港区で見積もり比較するときの判断基準
 
@@ -78,12 +73,7 @@ keywords: ["港区 遺品整理 おすすめ", "港区 遺品整理 費用", "�
 
 この準備をしてから問い合わせると、見積もりの精度が上がり、作業当日の変更も少なくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>港区で複数候補を比較したいときに、相談の入口として使いやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者の無料見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 

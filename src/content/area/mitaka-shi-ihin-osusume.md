@@ -26,12 +26,7 @@ keywords: ["三鷹市 遺品整理 おすすめ", "三鷹市 遺品整理 業者
 
 実際に問い合わせると、同じ2LDKでも「階段作業の有無」「遺品の中に買取対象品があるか」「供養方法の希望」で見積もり総額が50万円以上変わることもあります。見積書は総額だけでなく、対象外項目と追加費用の発生条件を確認しておくことが重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>三鷹市対応の複数社から無料見積もり比較。駅近と郊外の作業条件差も含めた提案を受け取りやすい窓口です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で複数社見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 三鷹市で比較したい遺品整理業者5選
 
@@ -47,12 +42,7 @@ keywords: ["三鷹市 遺品整理 おすすめ", "三鷹市 遺品整理 業者
 
 業者ごとに「搬出完了日」「供養実施日」「買取査定の期間」が異なるため、退去日や売却予定日と照らし合わせて、スケジュール余裕のある事業者を選ぶことも重要です。電話の概算見積だけで決めるとトラブルになりやすいため、必ず書面見積を取得してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>不用品回収FireWorks</h3>
-<p>遺品整理と買取査定を同時対応。三鷹市内での搬出作業完了後、査定額を即時通知してくれる透明性の高さが特徴です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMH2Q+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">無料見積もり・査定を依頼する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 三鷹市で後悔しない遺品整理業者の選び方
 

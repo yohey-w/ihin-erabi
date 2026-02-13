@@ -28,12 +28,7 @@ keywords: ["三鷹市 遺品整理 費用", "三鷹市 遺品整理 おすすめ
 
 実際に問い合わせると、同じ2LDKでも「階段作業」「当日追加品」「解体作業」の扱いで総額が大きく変わる場合があります。見積書は総額だけでなく、対象外項目まで確認しておくと安心です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】遺品整理の一括見積もり - 遺品整理110番</h3>
-<p>三鷹市対応の優良業者から複数社の無料見積もり比較。料金の相場がすぐに分かり、追加費用の心配もありません。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 三鷹市ならではの事情は？調布市・武蔵野市との違い
 
@@ -65,12 +60,7 @@ keywords: ["三鷹市 遺品整理 費用", "三鷹市 遺品整理 おすすめ
 
 立ち会い者の役割を決めないまま進めると、当日の判断で混乱しやすくなります。遠方在住のご家族がいる場合は、鍵の受け渡し方法と作業後の写真報告手順まで先に決めると安心です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>買取で費用を抑える - 不用品回収FireWorks</h3>
-<p>遺品の中に価値ある品が眠っていませんか？遺品整理と不用品回収をまとめて相談しやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMH2Q+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -98,11 +88,6 @@ keywords: ["三鷹市 遺品整理 費用", "三鷹市 遺品整理 おすすめ
 
 三鷹市の遺品整理は、搬出条件と行政手続きで費用が変動しやすいため、見積内訳と追加費用条件をそろえて比較することが重要です。まずは複数社の見積もりを同条件で取り、供養対応と買取査定の内容を確認してから依頼先を決めると、実務面と心理面の負担を抑えやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】遺品整理の一括見積もり - 遺品整理110番</h3>
-<p>三鷹市対応の優良業者から複数社の無料見積もり比較。料金の相場がすぐに分かり、追加費用の心配もありません。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は各公式サイトでご確認ください。

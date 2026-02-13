@@ -27,12 +27,7 @@ keywords: ["中央区 遺品整理 おすすめ", "中央区 遺品整理 費用
 
 見積書を受け取る際は、総額だけでなく「どこまでが基本料金か」「どの条件で追加が発生するか」を文章で明示してもらうのが有効です。実際に問い合わせると、同じ1LDKでも階段搬出や夜間対応の扱いで数万円の差が生まれるケースがあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>中央区を含む全国対応の相談窓口。無料見積もりで作業範囲と料金内訳を整理しやすいサービスです。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 中央区ならではの注意点は？港区・江東区との違い
 
@@ -66,12 +61,7 @@ keywords: ["中央区 遺品整理 おすすめ", "中央区 遺品整理 費用
 
 文章だけでなく、箇条書きで手順を揃えておくと家族間の認識も一致しやすくなります。遠方から調整する場合は、鍵の受け渡し方法と写真報告の形式まで先に決めると進行が安定します。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>中央区で複数候補を比較する際に使いやすい相談窓口です。先に条件を整理して依頼すると見積もり精度が上がります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者の無料見積もりを確認する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 

@@ -43,12 +43,7 @@ keywords: ["三鷹市 遺品整理 口コミ", "三鷹市 遺品整理 業者", 
 | 遺品整理110番 | 一都三県で高い | 可能（要相談） | 合同・個別対応 | 透明性を重視したい人 |
 | 不用品回収FireWorks | 大型家具買取が得意 | 得意分野 | オプション対応 | 費用を抑えたい人 |
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>見積もりの透明性なら - 遺品整理110番</h3>
-<p>三鷹市全域対応。24時間365日対応で、見積もりから成約まで追加費用の心配がありません。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 失敗しない比較手順
 
@@ -69,12 +64,7 @@ keywords: ["三鷹市 遺品整理 口コミ", "三鷹市 遺品整理 業者", 
 
 「買取で費用が下がった」という口コミが目立つ理由は、見積もりと査定を同時に進めることで、実質負担がはっきりするからです。初電話で「査定希望」と伝えておくと、見積もり日に貴金属・家電・ブランド品の査定も同時に行ってもらえます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>買取で費用を抑える - 不用品回収FireWorks</h3>
-<p>遺品の中の家電やブランド品を査定。買取査定で実質費用を大幅に圧縮できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMH2Q+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">無料見積もり・査定を依頼する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
