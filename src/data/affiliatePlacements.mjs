@@ -21,7 +21,7 @@ export const affiliatePrograms = {
     network: 'A8',
     rewardYen: 6000,
     status: 'active',
-    affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WO6Q+39GM+5MFT42',
+    affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WQI2+39GM+5MFT42',
   },
   emeao: {
     name: 'EMEAO! 遺品整理',
