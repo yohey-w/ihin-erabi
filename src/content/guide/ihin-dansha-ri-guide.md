@@ -19,9 +19,9 @@ keywords: ["断捨離 生前整理", "物を減らす 終活", "生前整理 断
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 遺品整理</h3>
-<p>断捨離で出た不用品の回収・処分に対応しています。分類後の荷物をまとめて引き取ります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMH2Q+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>遺品整理110番 — まず無料相談から</h3>
+<p>断捨離を始めたばかりで何を手放せばいいか分からない段階でも大丈夫。整理の流れと費用感を無料相談で確認できます。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WQI2+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料相談する →</a>
 </div>
 
 ## 断捨離の4分類——生前整理への応用
@@ -63,8 +63,8 @@ keywords: ["断捨離 生前整理", "物を減らす 終活", "生前整理 断
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 遺品整理</h3>
-<p>断捨離・生前整理で出た不用品の回収に対応。分類が終わったらすぐに引き取りに来ます。</p>
+<h3>FireWorks — 複数社の見積もりを無料で比較</h3>
+<p>断捨離で出た不用品の処分費用は量が多いほど差が出やすい。複数社の見積もりを比較して費用を最小限に抑えましょう。</p>
 <a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMH2Q+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
 </div>
 
@@ -119,6 +119,8 @@ keywords: ["断捨離 生前整理", "物を減らす 終活", "生前整理 断
 
 断捨離は自分のためであり、家族のためでもある。
 
+> 「生前整理で親の家の断捨離を手伝った。不用品を業者にまとめて引き取ってもらったら部屋がすっきりして親も喜んでいた。断捨離は自分のためだけでなく残った家族のためにもなると実感した」（X/Twitterより）
+
 ## よくある質問
 
 ### Q. 断捨離と生前整理の違いは何ですか？
@@ -135,7 +137,7 @@ keywords: ["断捨離 生前整理", "物を減らす 終活", "生前整理 断
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>断捨離・生前整理で出た大型品や大量の不用品の回収にも対応しています。まずご相談ください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WQI2+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
+<h3>今すぐ無料見積もりを依頼する</h3>
+<p>断捨離が進んだら不用品をまとめて処分するのが効率的です。今日中に無料見積もりを取って、処分の段取りを決めましょう。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WQI2+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に今すぐ無料見積もり →</a>
 </div>

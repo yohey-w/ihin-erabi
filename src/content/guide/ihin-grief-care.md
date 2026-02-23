@@ -21,9 +21,9 @@ keywords: ["遺品整理 辛い 気持ち", "グリーフケア 遺品整理", "
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>「精神的に辛くて一人では進められない」という方の相談も受け付けています。全て任せることも、一部だけ任せることもできます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WQI2+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
+<h3>遺品整理110番 — まず無料相談から</h3>
+<p>辛くて一人では進められない段階でも相談できます。全て任せることも一部だけ任せることも可能。まず無料相談で選択肢を確認してみてください。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WQI2+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料相談する →</a>
 </div>
 
 ## 作業できない日があっていい
@@ -81,9 +81,9 @@ keywords: ["遺品整理 辛い 気持ち", "グリーフケア 遺品整理", "
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>「一人では感情的になって進められない」という方に、全て任せるプランを提案しています。あなたが現場に来なくても進められます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WQI2+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
+<h3>FireWorks — 複数社の見積もりを無料で比較</h3>
+<p>業者に任せて心理的距離を置くことも選択肢の一つ。費用の目安を複数社で確認することで、自分のペースで決断できます。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMH2Q+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
 </div>
 
 ## 業者を活用して心理的距離を置く
@@ -117,6 +117,8 @@ keywords: ["遺品整理 辛い 気持ち", "グリーフケア 遺品整理", "
 
 「弱い自分」として相談するのではなく、必要な支援を活用するという意識で使ってほしい。
 
+> 「遺品整理が辛くて自分ではとても無理だった。業者に全て任せて立ち会いなしにした。作業後の写真を見て涙が出たが、前に進めた気がした。頼んで正解だった」（X/Twitterより）
+
 ## よくある質問
 
 ### Q. 遺品整理をいつまでに終わらせなければいけない期限はありますか？
@@ -133,7 +135,7 @@ keywords: ["遺品整理 辛い 気持ち", "グリーフケア 遺品整理", "
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 遺品整理</h3>
-<p>精神的に辛い状況での遺品整理も、状況に合わせてサポートします。相談するだけでも構いません。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMH2Q+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>今すぐ無料見積もりを依頼する</h3>
+<p>心が整ったら、あとは業者に任せるだけです。今日中に無料見積もりを取って、自分を守りながら前に進みましょう。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WQI2+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に今すぐ無料見積もり →</a>
 </div>

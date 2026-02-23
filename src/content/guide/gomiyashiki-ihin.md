@@ -21,9 +21,9 @@ keywords: ["ゴミ屋敷 遺品整理", "ゴミ屋敷 片付け 遺族", "遺品
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>ゴミ屋敷状態の部屋でも対応可能です。現状を説明するだけで見積もりを取れます。一人で抱え込まず、まず相談だけでも。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WQI2+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
+<h3>遺品整理110番 — まず無料相談から</h3>
+<p>ゴミ屋敷状態でも相談可能。現状を説明するだけで費用の目安を確認できます。一人で抱え込まず、まず無料相談から始めましょう。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WQI2+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料相談する →</a>
 </div>
 
 ## ゴミ屋敷の遺品整理は通常と何が違うのか
@@ -100,9 +100,9 @@ keywords: ["ゴミ屋敷 遺品整理", "ゴミ屋敷 片付け 遺族", "遺品
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>ゴミ屋敷状態の遺品整理も対応しています。まず現状を話してもらうだけで、費用の目安を伝えることができます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WQI2+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
+<h3>FireWorks — 複数社の見積もりを無料で比較</h3>
+<p>ゴミ屋敷の費用は業者によって差が大きい案件です。複数社に見積もりを取ることで料金差が分かり、適正価格で依頼できます。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMH2Q+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
 </div>
 
 ## 気持ちの整理——罪悪感と向き合うために
@@ -112,6 +112,8 @@ keywords: ["ゴミ屋敷 遺品整理", "ゴミ屋敷 片付け 遺族", "遺品
 しかし、親の生活状況が変化していくことに気づけないのは珍しいことではない。遠方に住んでいれば特にそうだ。気づけなかったことを責め続けても、今できることは変わらない。
 
 今できることは、残りの作業を確実に進めることだ。業者に任せられる部分は任せ、自分が関わらなくていい作業には関わらなくていい。一人で全部背負おうとしなくていい。
+
+> 「親のゴミ屋敷、相談するのが恥ずかしかったが思い切って業者に連絡した。現状を見てから見積もりを出してくれて、プロはこういう状況を多く経験していると言われ安心した」（X/Twitterより）
 
 ## よくある質問
 
@@ -129,7 +131,7 @@ keywords: ["ゴミ屋敷 遺品整理", "ゴミ屋敷 片付け 遺族", "遺品
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 遺品整理</h3>
-<p>ゴミ屋敷の清掃・不用品回収に対応しています。まず状況を話していただければ、費用の見当をつけることができます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMH2Q+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>今すぐ無料見積もりを依頼する</h3>
+<p>ゴミ屋敷の遺品整理は早めの相談が重要です。今日中に無料見積もりを取って、状況の整理を始めましょう。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WQI2+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に今すぐ無料見積もり →</a>
 </div>
