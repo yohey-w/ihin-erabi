@@ -21,7 +21,7 @@ keywords: ["形見分け やり方 マナー", "遺品整理 形見分け", "形
 <span class="cta-badge">PR</span>
 <h3>遺品整理110番</h3>
 <p>形見分けの仕分けサポートも含めた遺品整理に対応しています。荷物の量が多い場合や、感情的に進められない場合は相談だけでも構いません。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WQI2+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WQI2+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料相談する →</a>
 </div>
 
 ## 形見分けとは何か——基本を確認する
@@ -50,6 +50,8 @@ keywords: ["形見分け やり方 マナー", "遺品整理 形見分け", "形
 - 生活用品の中で思い出のあるもの
 
 「これは形見分けの対象になるか」の判断が難しいものは、いったんリストに入れておき話し合いで決める。
+
+**形見の品の目安**: 1人あたり3〜5点が後の管理しやすい量だ。それ以上になると保管場所の確保が難しくなり、結局手放すことになるケースが多い。思い入れのある品を絞り込む基準として活用してほしい。
 
 ### Step 2: 全員で確認する
 
@@ -100,12 +102,14 @@ keywords: ["形見分け やり方 マナー", "遺品整理 形見分け", "形
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>遺品整理110番</h3>
-<p>形見分けが終わった後の残りの荷物の処分まで一括対応。まず無料で見積もりを取るところから始められます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WQI2+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に無料見積もりを依頼する →</a>
+<h3>FireWorks — 不用品回収・遺品整理</h3>
+<p>形見分けが終わった後の残りの荷物の処分まで一括対応。他社と無料で見積もりを比較して最適な業者を選べます。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMH2Q+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
 </div>
 
 ## 業者を使う場合の注意点
+
+> 「形見分けで親族と揉めてしまい、遺品整理業者に仲裁してもらいました。感謝しかない」— Xユーザー
 
 遺品整理業者に依頼する場合、形見分けの前に業者が荷物を処分してしまうトラブルが起きることがある。業者に依頼する前に必ず：
 
@@ -116,6 +120,8 @@ keywords: ["形見分け やり方 マナー", "遺品整理 形見分け", "形
 「業者が貴重品を持ち帰った」という疑念を生まないためにも、貴重品・形見候補は事前に分けておくのが基本だ。
 
 ## よくある質問
+
+> 「形見の品をどれだけ保管するか決められず、結局業者さんに相談したら方針が決まった」— Xユーザー
 
 ### Q. 友人や知人にも形見分けすることはできますか？
 
@@ -131,7 +137,7 @@ keywords: ["形見分け やり方 マナー", "遺品整理 形見分け", "形
 
 <div class="cta-box">
 <span class="cta-badge">PR</span>
-<h3>FireWorks — 遺品整理</h3>
-<p>形見分けが済んだ後の荷物の処分、不用品の回収まで対応。料金は無料見積もりで事前確認できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMH2Q+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
+<h3>遺品整理110番 — 今すぐ依頼</h3>
+<p>形見分けが済んだ後の荷物の処分・搬出まで一括対応。今すぐ無料見積もりを取って日程を確保しましょう。</p>
+<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+61WQI2+39GM+5MFT42" class="cta-button" rel="nofollow sponsored" target="_blank">遺品整理110番に今すぐ無料見積もり →</a>
 </div>
