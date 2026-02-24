@@ -175,13 +175,6 @@ keywords: ["遺品整理 銀行口座 手続き", "故人 証券口座 相続", 
 | 2 | 遺言執行者の確認 | 指定されていれば手続きを委任できる |
 | 3 | 銀行手続き | 遺言書＋検認済みで進められる |
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>FireWorks — 複数社の見積もりを無料で比較</h3>
-<p>手続きと並行して遺品整理が必要な場合も対応可能です。まず状況を相談してください。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMH2Q+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
-</div>
-
 ---
 
 ## よくある質問
