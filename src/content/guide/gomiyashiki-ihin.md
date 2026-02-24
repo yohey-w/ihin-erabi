@@ -127,13 +127,6 @@ keywords: ["ゴミ屋敷 遺品整理", "ゴミ屋敷 片付け 遺族", "遺品
 
 ゴミ屋敷の状態が深刻なほど、対応できる業者の種類が絞られる。まず現状の「程度」を把握することが業者選びの第一歩だ。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>FireWorks — 複数社の見積もりを無料で比較</h3>
-<p>状況が確認できたら、次は費用感を把握しましょう。ゴミ屋敷の費用は業者によって差が大きいため、複数社の比較が重要です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+6CMH2Q+4X26+NTJWY" class="cta-button" rel="nofollow sponsored" target="_blank">FireWorksに無料見積もりを依頼する →</a>
-</div>
-
 ## よくある質問
 
 ### Q. 市区町村のゴミ収集サービスでは対応できませんか？
