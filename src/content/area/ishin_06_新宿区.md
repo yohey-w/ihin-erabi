@@ -118,6 +118,16 @@ A: 業者に「過去の利用者の声（testimonial）を教えてほしい」
 地域のコミュニティ（自治会・マンション管理組合・SNSグループ等）で口コミを求める方法も有効です。
 実際に利用した知人・親族からの紹介は最も信頼性が高い情報源のひとつになります。
 
+<!-- af:3282 -->
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>オフロス｜不用品・粗大ごみの回収</h3>
+<p>家の片付けや引越し、遺品整理など、不用品の処分はオフロスにお任せ。即日対応・無料見積もりで、手間なくスッキリ。</p>
+<a href="//af.moshimo.com/af/c/click?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" class="cta-button" rel="nofollow sponsored" referrerpolicy="no-referrer-when-downgrade" target="_blank" attributionsrc>オフロスの無料見積もりはこちら →</a>
+<img src="//i.moshimo.com/af/i/impression?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" width="1" height="1" style="border:none;" loading="lazy">
+<p class="affiliate-note">※オフロス公式サイトに遷移します</p>
+</div>
+
 ## まとめ
 
 新宿区の遺品整理口コミを活用する際は、具体性・一貫性・複数サイトでの傾向確認の3点が判断の軸になります。

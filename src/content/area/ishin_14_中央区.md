@@ -124,6 +124,16 @@ A: 最低3社、できれば5社から取ることで中央区の相場感と業
 タワーマンション搬出に精通した業者・高額家財の買取査定に対応できる業者・下町物件の実績がある業者を候補に含めると比較の精度が上がります。
 見積り額だけでなく問い合わせ時の担当者の知識レベルと対応姿勢も評価材料にすることで、作業当日の品質を事前に見極めやすくなります。
 
+<!-- af:3282 -->
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>オフロス｜不用品・粗大ごみの回収</h3>
+<p>家の片付けや引越し、遺品整理など、不用品の処分はオフロスにお任せ。即日対応・無料見積もりで、手間なくスッキリ。</p>
+<a href="//af.moshimo.com/af/c/click?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" class="cta-button" rel="nofollow sponsored" referrerpolicy="no-referrer-when-downgrade" target="_blank" attributionsrc>オフロスの無料見積もりはこちら →</a>
+<img src="//i.moshimo.com/af/i/impression?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" width="1" height="1" style="border:none;" loading="lazy">
+<p class="affiliate-note">※オフロス公式サイトに遷移します</p>
+</div>
+
 ## まとめ
 
 中央区の遺品整理費用は、タワーマンションの搬出制約と月島・佃エリアの下町住宅の物量という2つの極端なケースで相場が大きく異なります。
