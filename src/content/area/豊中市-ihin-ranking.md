@@ -78,6 +78,16 @@ keywords: ["豊中市 遺品整理 おすすめ", "豊中市 遺品整理 おす
 ### 不用品の処分もしてもらえますか？
 はい。遺品整理業者は不用品の回収・処分も対応しています。自治体の粗大ゴミ収集よりも迅速で、分別の手間もかかりません。
 
+<!-- af:3282 -->
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>オフロス｜不用品・粗大ごみの回収</h3>
+<p>家の片付けや引越し、遺品整理など、不用品の処分はオフロスにお任せ。即日対応・無料見積もりで、手間なくスッキリ。</p>
+<a href="//af.moshimo.com/af/c/click?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" class="cta-button" rel="nofollow sponsored" referrerpolicy="no-referrer-when-downgrade" target="_blank" attributionsrc>オフロスの無料見積もりはこちら →</a>
+<img src="//i.moshimo.com/af/i/impression?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" width="1" height="1" style="border:none;" loading="lazy">
+<p class="affiliate-note">※オフロス公式サイトに遷移します</p>
+</div>
+
 ## まとめ
 
 豊中市で遺品整理業者を選ぶ際は、複数社から見積もりを取り、料金やサービス内容を比較することが大切です。見積もりサービスを活用すれば、手間なく最適な業者を見つけられます。
