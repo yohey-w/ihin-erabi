@@ -85,6 +85,16 @@ keywords: ["大和市 遺品整理 おすすめ", "大和市 遺品整理 費用
 
 粗大ごみの予約日程に余裕がある品目は自治体回収、退去期限が近い品目や仕分けが難しい品目は業者依頼、という分け方が実務的です。混在させる場合は、どこまでを業者作業に含めるかを見積もり時に明確にしておくと進行が安定します。
 
+<!-- af:3282 -->
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>オフロス｜不用品・粗大ごみの回収</h3>
+<p>家の片付けや引越し、遺品整理など、不用品の処分はオフロスにお任せ。即日対応・無料見積もりで、手間なくスッキリ。</p>
+<a href="//af.moshimo.com/af/c/click?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" class="cta-button" rel="nofollow sponsored" referrerpolicy="no-referrer-when-downgrade" target="_blank" attributionsrc>オフロスの無料見積もりはこちら →</a>
+<img src="//i.moshimo.com/af/i/impression?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" width="1" height="1" style="border:none;" loading="lazy">
+<p class="affiliate-note">※オフロス公式サイトに遷移します</p>
+</div>
+
 ## まとめ
 
 大和市の遺品整理は、駅周辺と郊外で搬出条件が変わりやすく、見積内訳の確認が結果を左右します。まずは2〜3社へ同条件で問い合わせ、供養対応・買取可否・追加料金条件を横並びで比較すると、納得感のある判断につながります。
