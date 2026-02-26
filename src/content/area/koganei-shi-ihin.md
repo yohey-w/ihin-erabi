@@ -151,6 +151,16 @@ JR中央線沿線のアクセスの良さから、都心部の業者と比較し
 庭・倉庫・納屋の荷物処分が必要な場合は、追加費用が発生します。
 一方で駐車スペースが確保しやすい戸建ての場合、搬出効率が上がり費用が抑えられることもあります。
 
+
+<!-- af:3282 -->
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>オフロス｜不用品・粗大ごみの回収</h3>
+<p>家の片付けや引越し、遺品整理など、不用品の処分はオフロスにお任せ。即日対応・無料見積もりで、手間なくスッキリ。</p>
+<a href="//af.moshimo.com/af/c/click?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" class="cta-button" rel="nofollow sponsored" referrerpolicy="no-referrer-when-downgrade" target="_blank" attributionsrc>オフロスの無料見積もりはこちら →</a>
+<img src="//i.moshimo.com/af/i/impression?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" width="1" height="1" style="border:none;" loading="lazy">
+<p class="affiliate-note">※オフロス公式サイトに遷移します</p>
+</div>
 ## まとめ
 
 小金井市は人口密度11,157人/km²・世帯63,182の住宅都市で、戸建て比率が高く大型品目を伴う遺品整理が多い傾向です。
