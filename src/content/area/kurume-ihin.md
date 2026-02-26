@@ -89,6 +89,16 @@ keywords: ["久留米市 遺品整理 おすすめ", "久留米市 遺品整理 
 
 日程に余裕がある品目は自治体回収、退去期限が近い品目や仕分け負担が大きい品目は業者依頼へ分ける方法が現実的です。混在させる場合は、どこまでを業者作業に含めるかを見積もり時に明確にしてください。処分ルールは最新の市公式案内を確認するのが確実です。
 
+<!-- af:3282 -->
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>オフロス｜不用品・粗大ごみの回収</h3>
+<p>家の片付けや引越し、遺品整理など、不用品の処分はオフロスにお任せ。即日対応・無料見積もりで、手間なくスッキリ。</p>
+<a href="//af.moshimo.com/af/c/click?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" class="cta-button" rel="nofollow sponsored" referrerpolicy="no-referrer-when-downgrade" target="_blank" attributionsrc>オフロスの無料見積もりはこちら →</a>
+<img src="//i.moshimo.com/af/i/impression?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" width="1" height="1" style="border:none;" loading="lazy">
+<p class="affiliate-note">※オフロス公式サイトに遷移します</p>
+</div>
+
 ## まとめ
 
 久留米市の遺品整理は、中心部と郊外で搬出条件が変わりやすく、見積もり内訳の確認が結果を左右します。まずは同条件で複数社へ相談し、供養対応・追加料金・報告体制を横並びで確認したうえで依頼先を決めると、費用面と心理面の負担を抑えやすくなります。
