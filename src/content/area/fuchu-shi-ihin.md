@@ -123,6 +123,15 @@ A: 最低2〜3社から現地調査を依頼し、同じ条件で見積りを取
 府中市エリアでは業者間で20〜30%程度の価格差が生じることがあり、比較することで適正価格を把握できます。
 4社以上になると日程調整の手間が増えるため、口コミ評価の高い2〜3社に絞って比較するのが現実的です。
 
+<!-- af:3282 -->
+<div class="cta-box">
+<span class="cta-badge">PR</span>
+<h3>オフロス｜不用品・粗大ごみの回収</h3>
+<p>家の片付けや引越し、遺品整理など、不用品の処分はオフロスにお任せ。即日対応・無料見積もりで、手間なくスッキリ。</p>
+<a href="//af.moshimo.com/af/c/click?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" class="cta-button" rel="nofollow sponsored" referrerpolicy="no-referrer-when-downgrade" target="_blank" attributionsrc>オフロスの無料見積もりはこちら →</a>
+<img src="//i.moshimo.com/af/i/impression?a_id=5401648&p_id=3282&pc_id=7756&pl_id=42786" width="1" height="1" style="border:none;" loading="lazy">
+<p class="affiliate-note">※オフロス公式サイトに遷移します</p>
+</div>
 ## まとめ
 
 府中市の遺品整理費用は、1K・1Rで3〜8万円、一軒家（物量多）で40〜80万円が目安です。
