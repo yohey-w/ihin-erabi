@@ -42,11 +42,11 @@ export const affiliatePlacements = {
     note: PR_NOTE,
   },
   middle: {
-    title: '複数社比較はEMEAO!の条件もチェック',
+    title: '大量の遺品整理・不用品回収を相談したい方へ',
     description:
-      'EMEAO!は審査中のため、正式提携後にリンク差し替え予定です。比較候補として条件を先に把握できます。',
-    buttonText: 'EMEAO!の比較条件を確認する →',
-    affiliateUrl: affiliatePrograms.emeao.affiliateUrl,
+      'FireWorksは大量回収に強い不用品回収サービス。遺品整理と不用品処分をまとめて依頼できます。',
+    buttonText: 'FireWorksの見積もり条件を見る →',
+    affiliateUrl: affiliatePrograms.fireWorks.affiliateUrl,
     note: PR_NOTE,
   },
   bottom: {
